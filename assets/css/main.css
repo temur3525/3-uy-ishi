@@ -1,0 +1,159 @@
+/* @font-face {
+    font-family: "Roboto-Black";
+    src: url("../font/Roboto-Black.ttf");
+} */
+@font-face {
+    font-family: "MadimiOne-Regular";
+    src: url("../font/MadimiOne-Regular.ttf");
+}
+
+
+body{
+    background-color: rgb(245, 245, 245);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.tem{
+    width: 1440px;
+height: 3642px;
+background-color: 
+#FEFCF7;
+
+
+}
+.tem1{
+    margin-left: -1380px;
+    margin-top: -645px;
+    cursor: pointer;
+}
+
+.tem2{
+    margin-top: -645px;
+    margin-left: 1px;
+    cursor: pointer;
+}
+.tem3{
+    margin-top: -635px;
+    margin-left: 761px;
+}
+.tem3:hover{
+    /* background-color: bl; */
+    font-size: large;
+    cursor: pointer;
+}
+.tem4{
+    margin-top: -635px;
+    margin-left: 33px;
+}
+.tem4:hover{
+    font-size: large;
+    cursor: pointer;
+}
+.tem5{
+    margin-top: -635px;
+    margin-left: 33px;
+}
+.tem5:hover{
+    font-size: large;
+    cursor: pointer;
+}
+.tem6{
+    margin-left: -1310px;
+    margin-top: 44px;
+    /* border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px; */
+}
+.tem7{
+    margin-left: -1185px;
+color: white;
+/* font-family: "Roboto-Black"; */
+font-family: "MadimiOne-Regular";
+}
+.tem8{
+    margin-left: -185px;
+    color: white;
+    margin-top: 200px;
+}
+button{
+    /* width: 217px:
+height: 56px: */
+
+    width: 217px;
+height: 56px;
+background-color: #66D2CF;
+color: white;
+border: 1px solid transparent;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 300;
+    transition: .5s;
+margin-top: 456px;
+margin-left:-370px;
+border-radius:5px;
+
+}
+button:hover{
+    color: #66D2CF;
+    background-color: transparent;
+    border-color: #66D2CF;
+
+}
+.tem9{
+    margin-top: 1216px;
+    margin-left: -200px;
+}
+.tem10{
+    margin-top: 1216px;
+    margin-left: 30px;
+}
+.tem11{
+    margin-top: 1216px;
+    margin-left: 30px;
+}
+.tem12{
+    margin-top: 1216px;
+    margin-left: 30px;
+}
+.tem13{
+    margin-top: 1571px;
+    margin-left: -1060px;
+}
+.tem14{
+    margin-top: 1724px;
+    margin-left: -150px;
+}
+.tem15{
+    margin-top: 1724px;
+    margin-left: 70px;
+}
+.tem16{
+    margin-top: 1571px;
+    margin-left: -215px;
+}
+.tem17{
+    margin-top: 1571px;
+    margin-left: 200px;
+}
+.tem18{
+    margin-top: 1718px;
+    margin-left: -80px;
+}
+.tem19{
+    margin-top: 1571px;
+    margin-left: 65px;
+}
+.tem20{
+    margin-top: 1718px;
+    margin-left: -75px;
+}
+.tem21{
+    margin-top: 2850px;
+    margin-left: -1220px;
+}
+
+
+
