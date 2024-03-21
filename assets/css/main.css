@@ -6,7 +6,12 @@
     font-family: "MadimiOne-Regular";
     src: url("../font/MadimiOne-Regular.ttf");
 } */
-
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
 
 body {
     /* background-color: rgb(245, 245, 245); */
@@ -466,7 +471,32 @@ font-weight: 700;
     margin-left: 10px;
     cursor: pointer;
 }
+@media only screen and (max-width:768px) {
+  
 
+    .tem3 {
+        padding: 0px 40px;
+    }
+
+    .tem4 {
+        padding: 104px 58px;
+    }
+
+    .tem5{
+        max-width: 329px;
+        font-size: 48px;
+        line-height: 48px;
+        margin-bottom: 24px;
+    }
+
+    .tem6 {
+        max-width: 398px;
+        font-size: 15px;
+        line-height: 25px;
+        margin-bottom: 40px;
+    }
+
+}
 
 
 
